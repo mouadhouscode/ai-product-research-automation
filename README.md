@@ -64,7 +64,7 @@ This project demonstrates practical skills in workflow automation, API integrati
 Never publish API keys, access tokens, private credentials, or sensitive information in a public repository.
 
 **Author:** Hadid Mouadh
-
+![Workflow Architecture](4.png)
 
 
 
